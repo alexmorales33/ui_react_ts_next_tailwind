@@ -1,7 +1,7 @@
 "use client";
 import Breadcrumb from "@/components/Breadcrumbs/Breadcrumb";
-import DataTableOne from "@/components/DataTables/DataTableOne";
-import DataTableTwo from "@/components/DataTables/DataTableTwo";
+/* import DataTableOne from "@/components/DataTables/DataTableOne"; */
+/* import DataTableTwo from "@/components/DataTables/DataTableTwo"; */
 
 const DataTables: React.FC = () => {
   return (
@@ -9,8 +9,8 @@ const DataTables: React.FC = () => {
       <Breadcrumb pageName="Data Tables" />
 
       <div className="flex flex-col gap-5 md:gap-7 2xl:gap-10">
-        <DataTableOne />
-        <DataTableTwo />
+        {/* <DataTableOne /> */}
+        {/* <DataTableTwo /> */}
       </div>
     </>
   );

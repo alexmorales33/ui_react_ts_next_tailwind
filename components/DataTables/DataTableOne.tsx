@@ -1,10 +1,12 @@
-import React, { useMemo } from "react";
+/* import React, { useMemo } from "react";
+// @ts-ignore
 import {
   useTable,
   useSortBy,
   useGlobalFilter,
   useFilters,
   usePagination,
+  Column,
 } from "react-table";
 import ColumnFilter from "./ColumnFilter";
 
@@ -300,7 +302,7 @@ const dataOne: Employee[] = [
 ];
 
 // table header
-const column = [
+const columns: Column<Employee>[] = [
   {
     Header: "Name/Id",
     accessor: "name",
@@ -515,3 +517,4 @@ const DataTableOne = () => {
 };
 
 export default DataTableOne;
+ */

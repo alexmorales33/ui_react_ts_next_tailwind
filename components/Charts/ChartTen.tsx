@@ -81,11 +81,11 @@ const ChartTen: React.FC = () => {
       fontWeight: 500,
       offsetY: -5,
 
-      markers: {
+      /* markers: {
         radius: 99,
         width: 16,
         height: 16,
-      },
+      }, */
     },
     // yaxis: {
     //   title: false,

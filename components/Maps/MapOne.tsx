@@ -1,7 +1,7 @@
 "use client";
 // @ts-ignore
 import jsVectorMap from "jsvectormap";
-import "jsvectormap/dist/css/jsvectormap.css";
+/* import "jsvectormap/dist/css/jsvectormap.css"; */
 import { useEffect } from "react";
 import "../../js/us-aea-en";
 

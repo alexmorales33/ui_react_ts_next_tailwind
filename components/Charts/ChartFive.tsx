@@ -66,9 +66,9 @@ const ChartFive: React.FC = () => {
       horizontalAlign: "left",
       fontFamily: "Satoshi",
 
-      markers: {
+      /* markers: {
         radius: 99,
-      },
+      }, */
     },
     // yaxis: {
     //   title: false,

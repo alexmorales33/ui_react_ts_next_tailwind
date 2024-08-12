@@ -1,4 +1,4 @@
-import React, { useMemo } from "react";
+/* import React, { useMemo } from "react";
 import {
   useTable,
   useSortBy,
@@ -419,3 +419,4 @@ const DataTableTwo = () => {
 };
 
 export default DataTableTwo;
+ */
